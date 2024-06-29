@@ -12,6 +12,7 @@
 <img align="right" height="150" src="https://portfolio-paras-salunke.netlify.app/assets/img/my-profile-img.png"  />
 
 ###
+## languages used to build this portfolio website
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -50,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ParasSalunke/ParasSalunke/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ParasSalunke/ParasSalunke/output/snake.svg" alt="Snake animation" />
 
 ###
